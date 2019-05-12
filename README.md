@@ -1,1 +1,1 @@
-<h1><a href="https://github.com/aospilat/aostv/blob/master/aostv_v_15_1_1.apk?raw=true">Download Now AOS TV V15.1.1</a></h1>
+<h1><a href="https://github.com/aospilat/aostv/blob/master/aos_tv_15.1.2.apk?raw=true">Download Now AOS TV V15.1.2</a></h1>
